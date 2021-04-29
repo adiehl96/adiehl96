@@ -4,6 +4,8 @@ Saved Comments
 [nbconvert issue jupyterlab](https://github.com/jupyter/nbconvert/issues/799#issuecomment-390334820)
 
 [macOS VSCode terminal conda env issue](https://github.com/microsoft/vscode-python/issues/6343#issuecomment-509319313)
+
+[how to use conda install environment.yml package](https://github.com/conda/conda/issues/3417#issuecomment-640277379)
 <!--
 **adiehl96/adiehl96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
